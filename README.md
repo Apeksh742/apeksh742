@@ -72,10 +72,12 @@
 
 </p>
 
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/Apeksh742/Apeksh742/blob/output/github-contribution-grid-snake.gif)
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Apeksh742">
 </a>
-<a href="https://github.com/Apeksh742?tab=followers"><img src="https://img.shields.io/github/followers/Apeksh742?label=Followers&style=social" alt="GitHub Badge"></a>
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/apeksh742/apeksh742/blob/output/github-contribution-grid-snake.gif)
+<a href="https://github.com/Apeksh742?tab=followers"><img src="https://img.shields.io/github/followers/Apeksh742?label=Followers&style=social" alt="GitHub Badge"></a><br>
+
