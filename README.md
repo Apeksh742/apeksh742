@@ -77,3 +77,5 @@
     <img src="https://komarev.com/ghpvc/?username=Apeksh742">
 </a>
 <a href="https://github.com/Apeksh742?tab=followers"><img src="https://img.shields.io/github/followers/Apeksh742?label=Followers&style=social" alt="GitHub Badge"></a>
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/apeksh742/apeksh742/blob/output/github-contribution-grid-snake.gif)
